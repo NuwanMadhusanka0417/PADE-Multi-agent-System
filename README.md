@@ -8,6 +8,6 @@ pip install pade
 ```
 
 To  run the system, use following command,
-```
+```ruby
 pade start-runtime main.py
 ```
